@@ -1,0 +1,61 @@
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\App.g.cs
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\MainWindow.baml
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\pract2\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\App.g.cs
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\MainWindow.baml
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\Window1.g.cs
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4\WpfApp1\obj\Debug\Window1.baml
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\Window1.g.cs
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\App.g.cs
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\MainWindow.baml
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\Window1.baml
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Шарага\2 курс\Семестр 2\ОАИП - С#\prakt4 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
